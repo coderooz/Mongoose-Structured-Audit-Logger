@@ -1,0 +1,28 @@
+{
+  "name": "mongo-audit-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderooz/Mongoose-Structured-Audit-Logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coderooz/Mongoose-Structured-Audit-Logger/issues"
+  },
+  "homepage": "https://github.com/coderooz/Mongoose-Structured-Audit-Logger#readme",
+  "dependencies": {
+    "mongoose": "^9.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}
